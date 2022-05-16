@@ -2,7 +2,7 @@ _This is a **21 School/Ecole 42** Project_
 
 # get_next_line
 
-This project is about programming a function that returns a lineread from a file descriptor.
+This project is about programming a function that returns a line read from a file descriptor.
 
 ## Project goals
 
