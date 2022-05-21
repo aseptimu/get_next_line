@@ -12,4 +12,4 @@ This project is about programming a function that returns a line read from a fil
 ## Technologies
 
 1. C
-2. Makefile
+
